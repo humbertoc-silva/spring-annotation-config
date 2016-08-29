@@ -8,7 +8,7 @@
   <packaging>jar</packaging>
 
   <name>spring-annotation-config</name>
-  <description>Projeto de exemplo do capítulo 4 (4.2) do livro Vire o Jogo com Spring Framework - Casa do Código. O objetivo deste projeto é exemplificar a configuração de um projeto Spring utilizando annotations.</description>
+  <description>Projeto de exemplo do capítulo 4 (4.3) do livro Vire o Jogo com Spring Framework - Casa do Código. O objetivo deste projeto é exemplificar a configuração de um projeto Spring utilizando annotations.</description>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
